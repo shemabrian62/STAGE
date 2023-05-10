@@ -57,6 +57,10 @@ ul li::after{
 	width: 150px;
 	height: auto;
 }
+img {
+	width: 50%;
+	height: auto;
+}
 .main{
 	max-width: 1200px;
 	margin: auto;
