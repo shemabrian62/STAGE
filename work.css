@@ -174,3 +174,52 @@ ul li::after{
 	left: 0;
 	bottom: 0
 }
+#store {
+	background-color: #f7f7f7;
+	padding: 50px;
+	text-align: center;
+  }
+  
+  #store h2 {
+	font-size: 36px;
+	color: #333;
+	margin-bottom: 30px;
+  }
+  
+  .store-item {
+	display: inline-block;
+	margin: 0 15px;
+	text-align: left;
+	width: 300px;
+  }
+  
+  .store-item img {
+	width: 100%;
+	height: auto;
+  }
+  
+  .store-item h3 {
+	font-size: 24px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+  }
+  
+  .store-item p {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-bottom: 15px;
+  }
+  
+  .store-item button {
+	background-color: #333;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	font-size: 18px;
+	border-radius: 5px;
+	cursor: pointer;
+  }
+  
+  .store-item button:hover {
+	background-color: #444;
+  }
